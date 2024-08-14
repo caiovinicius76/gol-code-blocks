@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1715540732 source:d:\users\caiov\onedrive\Área de trabalho\projetos\code codigos\gol code blocks\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1695148714 c:\users\caiov\downloads\freeglut\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1695148714 c:\users\caiov\downloads\freeglut\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
